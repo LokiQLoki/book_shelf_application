@@ -1,0 +1,2 @@
+(this["webpackJsonpbook-shelf"]=this["webpackJsonpbook-shelf"]||[]).push([[6],{76:function(e,a,n){"use strict";n.r(a);var t=n(1),s=n.n(t);a.default=function(){return s.a.createElement("header",{className:"App-header"},s.a.createElement("h3",null,"Book Shelf Management"))}}}]);
+//# sourceMappingURL=6.c728991d.chunk.js.map

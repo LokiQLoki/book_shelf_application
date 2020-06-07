@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.bd89b7f6.chunk.js": "https://book-shelf-ui.herokuapp.com/static/js/0.bd89b7f6.chunk.js",
+    "static/js/0.bd89b7f6.chunk.js.map": "https://book-shelf-ui.herokuapp.com/static/js/0.bd89b7f6.chunk.js.map",
+    "main.css": "https://book-shelf-ui.herokuapp.com/static/css/main.b0a8ae7e.chunk.css",
+    "main.js": "https://book-shelf-ui.herokuapp.com/static/js/main.1e88e24f.chunk.js",
+    "main.js.map": "https://book-shelf-ui.herokuapp.com/static/js/main.1e88e24f.chunk.js.map",
+    "runtime-main.js": "https://book-shelf-ui.herokuapp.com/static/js/runtime-main.afc2f71f.js",
+    "runtime-main.js.map": "https://book-shelf-ui.herokuapp.com/static/js/runtime-main.afc2f71f.js.map",
+    "static/js/3.d3fde497.chunk.js": "https://book-shelf-ui.herokuapp.com/static/js/3.d3fde497.chunk.js",
+    "static/js/3.d3fde497.chunk.js.map": "https://book-shelf-ui.herokuapp.com/static/js/3.d3fde497.chunk.js.map",
+    "static/js/4.ae1524e2.chunk.js": "https://book-shelf-ui.herokuapp.com/static/js/4.ae1524e2.chunk.js",
+    "static/js/4.ae1524e2.chunk.js.map": "https://book-shelf-ui.herokuapp.com/static/js/4.ae1524e2.chunk.js.map",
+    "static/js/5.ac4d58c8.chunk.js": "https://book-shelf-ui.herokuapp.com/static/js/5.ac4d58c8.chunk.js",
+    "static/js/5.ac4d58c8.chunk.js.map": "https://book-shelf-ui.herokuapp.com/static/js/5.ac4d58c8.chunk.js.map",
+    "static/js/6.c728991d.chunk.js": "https://book-shelf-ui.herokuapp.com/static/js/6.c728991d.chunk.js",
+    "static/js/6.c728991d.chunk.js.map": "https://book-shelf-ui.herokuapp.com/static/js/6.c728991d.chunk.js.map",
+    "index.html": "https://book-shelf-ui.herokuapp.com/index.html",
+    "precache-manifest.74192d0a8ebd0198267c9396ebaef61a.js": "https://book-shelf-ui.herokuapp.com/precache-manifest.74192d0a8ebd0198267c9396ebaef61a.js",
+    "service-worker.js": "https://book-shelf-ui.herokuapp.com/service-worker.js",
+    "static/css/main.b0a8ae7e.chunk.css.map": "https://book-shelf-ui.herokuapp.com/static/css/main.b0a8ae7e.chunk.css.map",
+    "static/js/3.d3fde497.chunk.js.LICENSE.txt": "https://book-shelf-ui.herokuapp.com/static/js/3.d3fde497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc2f71f.js",
+    "static/js/3.d3fde497.chunk.js",
+    "static/css/main.b0a8ae7e.chunk.css",
+    "static/js/main.1e88e24f.chunk.js"
+  ]
+}
